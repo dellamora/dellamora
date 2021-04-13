@@ -1,4 +1,4 @@
-### Hi. Im Francielle Dellamora Menegotto 
+### Hi. Im Francielle Dellamora
 
 Welcome to my personal github I will be publishing my experiences, challenges and hobbies.
 
