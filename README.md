@@ -1,6 +1,6 @@
 ### Hi, Im Francielle Dellamora Menegotto 
 
-welcome to my personal github I will be publishing my experiences, challenges, and hobbies.
+welcome to my personal github I will be publishing my experiences, challenges and hobbies.
 
 <div>
   <a href="https://github.com/francidellamora">
