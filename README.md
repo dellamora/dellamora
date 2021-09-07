@@ -5,7 +5,7 @@
  
 <p align="left">
   Languages and Skills: <strong>CSS, HTML, JS,  Material-ui,
-Bootstrap, React and React-Konva. </strong>
+Bootstrap, React, React-Konva and Firebase. </strong>
 </p>
 
 
