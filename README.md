@@ -1,11 +1,20 @@
-### Hi, I'm Fran (:
-<img align='right' src="https://github.com/francidellamora/francidellamora/blob/main/Daco_5834311.png" width="230">
-<p><em> I am a front-end developer with a passion for coding and learning new tech.</a>
+### Hi (:
+
+<p><em> I am a Front-End Developer with a passion for developing web and tech that makes a positive impact on people's lives. Efficient with developing ideas and turning them into reality.</a>
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>CSS, HTML, JS,  Material-ui,
-Bootstrap, React, React-Konva and Firebase. </strong>
+  My current tech stack is: 
+
+- JavaScript, TypeScript and Node.js
+- React.js and Express.js
+- HTML5, SEO, CSS3, CSS-in-JS, Sass and Styled-Components
+- NPM, Yarn and PNPM
+- MySQL, Firebase and MongoDB
+- Framer Motion, Material-UI, Chakra UI, Bootstrap, React-Konva and others..
+- Scrum, KanBan and Agile
+- Git, GitHub, GitLab, Bitbucket and Jenkins
+- Trello, Zeplin, Slack, Visual Studio Code and Jira </strong>
 </p>
 
 
@@ -20,7 +29,7 @@ Bootstrap, React, React-Konva and Firebase. </strong>
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/francidellamora)
 
 <div>
-  <a href="https://github.com/francidellamora"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francidellamora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 
 <!--
 **francidellamora/francidellamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
