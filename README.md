@@ -3,20 +3,8 @@
 <p><em> I am a Front-End Developer with a passion for developing web and tech that makes a positive impact on people's lives. Efficient with developing ideas and turning them into reality.</a>
  </em></p>
  
-<p align="left">
-  My current tech stack is: 
-
-- JavaScript, TypeScript and Node.js
-- React.js and Express.js
-- HTML5, SEO, CSS3, CSS-in-JS, Sass and Styled-Components
-- NPM, Yarn and PNPM
-- MySQL, Firebase and MongoDB
-- Framer Motion, Material-UI, Chakra UI, Bootstrap, React-Konva and others..
-- Scrum, KanBan and Agile
-- Git, GitHub, GitLab, Bitbucket and Jenkins
-- Trello, Zeplin, Slack, Visual Studio Code and Jira </strong>
-</p>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="left">
  Find me:
