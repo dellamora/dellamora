@@ -4,6 +4,16 @@
  </em></p>
  
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   5 hrs 38 mins   ████████████████████░░░░░   79.84 %
+CSS          1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left">
