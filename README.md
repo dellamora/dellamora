@@ -1,6 +1,6 @@
 ### Hi (:
 
-<p><em> I am a Front-End Developer with a passion for developing web and tech that makes a positive impact on people's lives. Efficient with developing ideas and turning them into reality.</a>
+<p><em> I am a Front-End Developer with a passion for developing web and tech that makes a positive impact on people's lifes. Efficient with developing ideas and turning them into reality.</a>
  </em></p>
  
 <!--START_SECTION:waka-->
