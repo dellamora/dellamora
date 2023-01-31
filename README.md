@@ -1,6 +1,8 @@
 ### Hi (:
 
-<p><em> I am a Front-End Developer with a passion for developing web and tech that makes a positive impact on people's lives. Efficient with developing ideas and turning them into reality.</a>
+<p><em> I’m a fullstack developer passionate about creating projects for web development and technologies that makes a positive impact on people's lives. Always looking for new challenges and opportunities to learn and grow. Proficient in JavaScript, React, and Tailwind CSS.
+
+</a>
  </em></p>
  
 <!--START_SECTION:waka-->
