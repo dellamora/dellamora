@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 57 hrs 58 mins
+Total Time over the Last 14 Days: 57 hrs 58 mins
 
 TypeScript   21 hrs 51 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.34 %
 JavaScript   11 hrs 43 mins  ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.05 %
